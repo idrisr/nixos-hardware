@@ -86,6 +86,10 @@
     };
   }
   {
+    name = "ms-surface/not-a-real-patch";
+    patch = patchSrc + "/not-a-real.patch";
+  }
+  {
     name = "ms-surface/0001-surface3-oemb";
     patch = patchSrc + "/0001-surface3-oemb.patch";
   }
